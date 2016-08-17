@@ -1,5 +1,5 @@
 # NoteApp1
-## This Application contains a class called NotesApplication which:
+## This Application contains a class called NotesApplication which does the following :
  
 * Create a constructor that does the following
     * Takes in a parameter author as the author of the note and saves this as an instance variable.
